@@ -57,7 +57,7 @@
       <ul>
         <li>
           <img
-            src="images.jpg/img.jpg"
+            src="img.jpg"
             width="264"
             height="380"
             alt="employee1"
