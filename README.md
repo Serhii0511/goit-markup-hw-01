@@ -67,7 +67,7 @@
         </li>
         <li>
           <img
-            src="images.jpg/img@2x.jpg"
+            src="img@2x.jpg"
             width="264"
             height="380"
             alt="employee2"
