@@ -61,7 +61,7 @@
             width="264"
             height="380"
             alt="employee1"
-          />
+          >
           <h3>Mark Guerrero</h3>
           <p>Product Designer</p>
         </li>
@@ -71,27 +71,27 @@
             width="264"
             height="380"
             alt="employee2"
-          />
+          >
           <h3>Tom Ford</h3>
           <p>Frontend Developer</p>
         </li>
         <li>
           <img
-            src="img (1).jpg"
+            src="img(1).jpg"
             width="264"
             height="380"
             alt="employee3"
-          />
+          >
           <h3>Camila Garcia</h3>
           <p>Marketing</p>
         </li>
         <li>
           <img
-            src="img (2).jpg"
+            src="img(2).jpg"
             width="264"
             height="380"
             alt="employee4"
-          />
+          >
           <h3>Daniel Wilson</h3>
           <p>UI Designer</p>
         </li>
