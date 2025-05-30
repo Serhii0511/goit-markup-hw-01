@@ -95,7 +95,7 @@
           </li>
           <li>
             <img
-              src="img(2).jpg"
+              src="./images/img(2).jpg"
               width="264"
               alt="Daniel Wilson,UI Designer"
             >
