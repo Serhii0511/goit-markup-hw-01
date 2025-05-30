@@ -26,11 +26,11 @@
     <main>
       <!--MAIN-->
       <section>
-        <h1>Effective Solutions for Your</h1>
+        <h1>Effective Solutions for Your Bussines</h1>
         <button type="button">Order Service</button>
       </section>
       <section>
-        <!--Osob-->
+         <h2>Hidden title</h2>
         <ul>
           <li>
             <h3>Strategy</h3>
