@@ -86,7 +86,7 @@
           </li>
           <li>
             <img
-              src="img(1).jpg"
+              src="./images/img(1).jpg"
               width="264"
               alt="Camila Garcia,Marketing"
             >
