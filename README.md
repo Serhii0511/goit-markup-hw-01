@@ -2,15 +2,16 @@
 <html lang="en">
   <head>
     <title>WebStudio</title>
-  </head>
+      <meta charset="UTF-8">
+    </head>
   <body>
     <header>
       <nav>
-        <a href="/index.html">WebStudio</a>
+        <a href="./index.html">WebStudio</a>
         <ul>
-          <li><a href="">Studio</a></li>
-          <li><a href="">Portfolio</a></li>
-          <li><a href="">Contacts</a></li>
+          <li><a href="#">Studio</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Contacts</a></li>
         </ul>
         <address>
           <ul>
@@ -60,7 +61,8 @@
             src="img.jpg"
             width="264"
             height="380"
-            alt="employee1"
+            alt="Mark Guerrero,
+          Product Designer"
           >
           <h3>Mark Guerrero</h3>
           <p>Product Designer</p>
@@ -70,7 +72,7 @@
             src="img@2x.jpg"
             width="264"
             height="380"
-            alt="employee2"
+            alt="Tom Ford, Frontend Developer"
           >
           <h3>Tom Ford</h3>
           <p>Frontend Developer</p>
@@ -80,7 +82,7 @@
             src="img(1).jpg"
             width="264"
             height="380"
-            alt="employee3"
+            alt="Camila Garcia,Marketing"
           >
           <h3>Camila Garcia</h3>
           <p>Marketing</p>
@@ -90,7 +92,7 @@
             src="img(2).jpg"
             width="264"
             height="380"
-            alt="employee4"
+            alt="Daniel Wilson,UI Designer"
           >
           <h3>Daniel Wilson</h3>
           <p>UI Designer</p>
@@ -104,6 +106,5 @@
         marketing & growth solutions.
       </p>
     </footer>
-
   </body>
 </html>
