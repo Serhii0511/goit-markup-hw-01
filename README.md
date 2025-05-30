@@ -77,7 +77,7 @@
           </li>
           <li>
             <img
-              src="img@2x.jpg"
+              src="./images/img@2x(1).jpg"
               width="264"
               alt="Tom Ford, Frontend Developer"
             >
