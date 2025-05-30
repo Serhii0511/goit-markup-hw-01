@@ -67,7 +67,7 @@
         <ul>
           <li>
             <img
-              src="img.jpg"
+              src="./images/img(3).jpg"
               width="264"
               alt="Mark Guerrero,
           Product Designer"
