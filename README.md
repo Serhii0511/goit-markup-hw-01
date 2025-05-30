@@ -26,7 +26,7 @@
     <main>
       <!--MAIN-->
       <section>
-        <h1>Effective Solutions for Your Bussines</h1>
+        <h1>Effective Solutions for Your Bussiness</h1>
         <button type="button">Order Service</button>
       </section>
       <section>
