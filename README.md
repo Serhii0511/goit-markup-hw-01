@@ -69,7 +69,7 @@
       <ul>
         <li>
           <img
-            src="./images/img.jpg"
+            src="./images/img(3).jpg"
             width="264"
             alt="Mark Guerrero,
       Product Designer"
@@ -79,7 +79,7 @@
         </li>
         <li>
           <img
-            src="./images.jpg/img@2x.jpg"
+            src="./images/img@2x(1).jpg"
             width="264"
             alt="Tom Ford, Frontend Developer"
           />
@@ -88,7 +88,7 @@
         </li>
         <li>
           <img
-            src="./images.jpg/img(1).jpg"
+            src="./images/img(1).jpg"
             width="264"
             alt="Camila Garcia,Marketing"
           />
@@ -97,7 +97,7 @@
         </li>
         <li>
           <img
-            src="./images.jpg/img(2).jpg"
+            src="./images/img(2).jpg"
             width="264"
             alt="Daniel Wilson,UI Designer"
           />
