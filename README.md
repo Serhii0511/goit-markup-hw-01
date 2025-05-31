@@ -26,7 +26,7 @@
     <main>
       <!--MAIN-->
       <section>
-        <h1>Effective Solutions for Your Bussiness</h1>
+        <h1>Effective Solutions for Your Business</h1>
         <button type="button">Order Service</button>
       </section>
       <section>
@@ -40,7 +40,7 @@
             </p>
           </li>
           <li>
-            <h3>Punktuality</h3>
+            <h3>Punctuality</h3>
             <p>
               Bring the key message to the brand's audience for the best price
               within the shortest possible time.
