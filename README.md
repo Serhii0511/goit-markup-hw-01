@@ -7,7 +7,6 @@
   </head>
 
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
     <!--HEADER-->
     <header>
       <nav>
@@ -115,6 +114,5 @@
         marketing & growth solutions.
       </p>
     </footer>
-    </div>
   </body>
  </html>
