@@ -11,7 +11,6 @@
     <!--HEADER-->
     <header>
       <nav>
-        iulguy
         <a href="./index.html">WebStudio</a>
         <ul>
           <li><a href="#">Studio</a></li>
