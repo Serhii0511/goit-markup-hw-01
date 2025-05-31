@@ -4,7 +4,6 @@
     
   </head>
 
-  <body>
     <!--HEADER-->
     <header>
       <nav>
@@ -112,5 +111,4 @@
         marketing & growth solutions.
       </p>
     </footer>
-  </body>
  </html>
